@@ -492,12 +492,9 @@ h6,
 #header1-5 .mbr-section-lead B {
   color: #b8312f;
 }
-#header5-6 .mbr-section-title {
-  color: #000;
+#msg-box5-8 P {
+  font-size: 15px;
 }
-#header5-6 .mbr-section-lead {
-  color: #9c9a9a;
-}
-#form1-7 .form-control-label {
-  color: #232323;
+#msg-box5-8 B {
+  font-size: 14px;
 }
